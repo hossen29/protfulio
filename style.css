@@ -1,0 +1,108 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0 auto;
+}
+.sob-para{
+    padding-bottom: 50px;
+   height:600px;
+}
+h1{
+    font-size: 50px;
+
+}
+x
+.name-heilight{
+    color:blue;
+}
+.hef-wit{
+    width:45%;
+    margin-left: 2%;
+    float:left;
+}
+.para{
+    width: 45%;
+    margin-left: 2%;
+float:left;
+
+}
+.hef-wit img{
+    width:100%;
+}
+.link-you{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,red,blue);
+    padding:10px 20px;
+    border-radius: 5px;
+    color:cyan;
+
+}
+.so-para{
+    height:600px;
+}
+.new{
+color:darkorchid;
+   
+}
+
+.new-text{
+    width:45%;
+    float:left;
+    margin-left: 5%;
+}
+
+.picture{
+    width:45%;
+    float:left;
+}
+.picture img{
+    width:100%;
+   margin-left: 2%;
+}
+.ankor{
+    text-decoration: none;
+    background-image: linear-gradient(tomato,green);
+    padding:10px 20px;
+    border-radius: 10px;
+    color:floralwhite;
+
+}
+.header{
+    color:lightseagreen;
+}
+.haf{
+    width: 45%;
+    float:left;
+    margin-left: 3%;
+}
+.haf p{
+    text-align: justify;
+}
+.prac{
+        box-shadow: 10px 10px 40px gray;
+        height: 500px;
+        border-radius: 10px;
+        padding: 5px;;
+
+}
+#def{
+    border-left: 7px solid;
+    border-image: linear-gradient(lightSalmon,tomato);
+    border-image-slice: 1;
+}
+#har{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+
+#by{
+    text-align: center;
+    color:hotpink;
+    padding-top: 300px;
+
+}
+.expreance{
+
+    margin-bottom: 300px;
+}
